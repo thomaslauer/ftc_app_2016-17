@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/TeamCode/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/a9d487010d74fcc4fdcc3ef2d496a8b66f35a2c0/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/TeamCode/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/fb2013ab1597b601c532e4479dc2ee5264986a10/output/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/TeamCode/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/bundles/default/res/menu/ftc_robot_controller.xml"
+    }
+]

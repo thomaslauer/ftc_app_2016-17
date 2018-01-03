@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_view_logs.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/activity_view_logs.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/i2cs.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/i2cs.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/pwm_device.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/pwm_device.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_config_wifi_direct.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/matrices.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/device_interface_module.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/device_interface_module.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/shape.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/shape.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/button_list.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/motor_controller_banner.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_inspection.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/a9d487010d74fcc4fdcc3ef2d496a8b66f35a2c0/output/res/layout/activity_inspection.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/file_info.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_configuration.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/banner_parent.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/banner_parent.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_inputs.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/analog_inputs.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_swap_usb_devices.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/motor.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/servo_controller_banner.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/servo_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_programming_mode.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/fb2013ab1597b601c532e4479dc2ee5264986a10/output/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_configure_from_template.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/loading_indicator_overlay.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/885294616037aa0b4a2b35034f0b5bbb6eaa5119/output/res/layout/loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_outputs.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/analog_outputs.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/matrix_devices.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/matrix_devices.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/servo.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_blocks.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/fb2013ab1597b601c532e4479dc2ee5264986a10/output/res/layout/activity_blocks.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_output_device.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/item_list_parent.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/item_list_parent.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/pwms.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/pwms.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/darker_gray_line.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/darker_gray_line.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_device.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/digital_device.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_controller.xml",
+        "source": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/motor_list.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/motor_list.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/i2c_device.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/red_line.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/red_line.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/info_button.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/legacy.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/port_attached_row.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/port_attached_row.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/simple_device.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/simple_device.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_load.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_devices.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/digital_devices.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/servo_list.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/orange_warning.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/orange_warning.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_input_device.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/template_info.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/template_info.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_wifi_channel_selector.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/layout/activity_ftc_wifi_channel_selector.xml"
+    }
+]

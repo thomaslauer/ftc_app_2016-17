@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/xml/pushbot.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/xml/squarebot.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/thomaslauer/Documents/GitHub/ftc_app_2016-17/FtcRobotController/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
+        "source": "/Users/thomaslauer/.android/build-cache/9d96beab687281f581ae602279ea8be70cda1a07/output/res/xml/k9legacybot.xml"
+    }
+]
